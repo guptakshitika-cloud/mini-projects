@@ -5,7 +5,7 @@ This is a python project that collects four course names and their respective gr
 - Pandas
 - Jupyter Notebook
 ## How It Works
-- The user enters the names of four courses.
+- The user enters the names of courses.
 - The user enters the marks scored in each course.
 - The program validates the inputs and handles invalid entries.
 - Total marks and average marks are calculated.
