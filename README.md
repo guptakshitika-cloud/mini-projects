@@ -1,5 +1,5 @@
 # Student Marks Analyzer
-This is a python project that collects course names and marks from the user, validates inputs, calculates total and average marks, generates a marksheet using Pandas, identifies the strongest and weakest subjects, and exports the report as a text file. It was built to practice Python fundamentals and introductory data analysis using Pandas. It demonstrates how basic Python concepts can be combined to create a simple, functional application.
+This is a python project that collects four course names and their respective grades from the user, validates inputs, calculates total and average marks, generates a marksheet using Pandas, identifies the strongest and weakest subjects, and exports the report as a text file. It was built to practice Python fundamentals and introductory data analysis using Pandas. It demonstrates how basic Python concepts can be combined to create a simple, functional application.
 ## Technologies Used
 - Python
 - Pandas
